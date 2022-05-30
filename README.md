@@ -37,7 +37,7 @@ The purpose of this analysis is to explore and consolidate a group of CSV files 
      As can be seen by comparing the two tables, there more than enough retirement-ready employees to mentor those eligible. However, there are no employees with the title "Manager" that are eligible for mentorship and 2 employees of retiring age with that title. 
      
 - However there are 18 other current employees in the company with a "Manager" title. 
-    All were born between 1955 and 1965 putting them "between" the two groups. There is an area of opportunity to possibly promote 2 employees from the pool of mentorship-eligible candidates to Management or to expand the mentorship program to include some the the "between" employees since there are so many of retiring age.
+    All were born between 1955 and 1965 putting them "between" the two groups. There is an area of opportunity to possibly promote 2 employees from the pool of mentorship-eligible candidates to Management or to expand the mentorship program to include some the the "between" employees since there are so many of retiring age. Expanding the mentorship eligibility to include more employees could potentially also help balance the "Silver Tsunami" of many employees reaching retirement age around the same time. 
 
      ![Screenshot7](https://user-images.githubusercontent.com/99051640/170909028-f7a33524-efc8-454a-a822-56d2787eb781.png)
      ![Screenshot8](https://user-images.githubusercontent.com/99051640/170909038-9f28e30d-0537-4625-9d45-9646e65b570d.png)
