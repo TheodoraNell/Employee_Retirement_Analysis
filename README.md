@@ -2,15 +2,19 @@
 ## Overview: 
 The purpose of this analysis is to explore and consolidate a group of CSV files containing different employee and company information for a large corporation. More specifically, it aims to understand the scope and implications of having a large number of employees who are approaching or at retirement age.
 ## Results: 
-- **Employees of retirement age**
+- **Employees of retirement age**:
+
     This table shows all employees that were born between 1952 to 1955. However, the same employee number is referenced more than once for employees who have had more than one title within the company.
     ![Screenshot1](https://user-images.githubusercontent.com/99051640/170905789-a0475364-de60-4d86-a25f-7648182eaf73.png)
-- **Distinct Employee list**
+- **Distinct Employee list**:
+
     This table removes the duplicate rows and only shows the most recent title for each employee.
     ![Screenshot2](https://user-images.githubusercontent.com/99051640/170906959-eea18d51-01f9-4000-9156-e1680b8b2b3b.png)
-- **Number of retirement-age employees by title**
+- **Number of retirement-age employees by title**:
+
     ![Screenshot3](https://user-images.githubusercontent.com/99051640/170907181-1925b30a-fc29-48fa-93ba-66b920652298.png)
-- **Employees eligible for mentorship**
+- **Employees eligible for mentorship**:
+
     This table shows all employees who were born in 1965 and are eligible for the company's mentorship program. The script to remove duplicate rows is included. 
     ![Screenshot4](https://user-images.githubusercontent.com/99051640/170907526-b2eb3915-b55d-48a1-ace8-ca56c0d0d23d.png)
 
