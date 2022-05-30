@@ -15,7 +15,7 @@ The purpose of this analysis is to explore and consolidate a group of CSV files 
     ![Screenshot3](https://user-images.githubusercontent.com/99051640/170907181-1925b30a-fc29-48fa-93ba-66b920652298.png)
 - **Employees eligible for mentorship**:
 
-    This table shows all employees who were born in 1965 and are eligible for the company's mentorship program. The script to remove duplicate rows is included. 
+    This table shows all employees who were born in 1965 and are eligible for the company's mentorship program. The script to remove duplicate rows is included.
     ![Screenshot4](https://user-images.githubusercontent.com/99051640/170907526-b2eb3915-b55d-48a1-ace8-ca56c0d0d23d.png)
 
 ## Summary: 
