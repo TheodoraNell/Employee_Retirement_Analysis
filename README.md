@@ -22,7 +22,10 @@ The purpose of this analysis is to explore and consolidate a group of CSV files 
 ## Summary: 
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-     72,458 employees eligible for retirment and there will need to be a plan in place to fill or transform their roles. 
+     72,458 employees eligible for retirment and there will need to be a plan in place to fill or transform their roles.
+     
+     ![Screenshot9](https://user-images.githubusercontent.com/99051640/170909675-666ef5d9-0467-41b4-ae74-b7b7e6c6ea5f.png)
+
       
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
