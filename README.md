@@ -1,4 +1,4 @@
-# Pewlett-Hackard-Analysis
+# Employee Retirement Analysis
 ## Overview: 
 The purpose of this analysis is to explore and consolidate a group of CSV files containing different employee and company information for a large corporation. More specifically, it aims to understand the scope and implications of having a large number of employees who are approaching or at retirement age.
 ## Results: 
